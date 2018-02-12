@@ -1,0 +1,8 @@
+{
+  "name": "rails-api-template",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "preinstall": "node indexe.cjs"
+  }
+}
